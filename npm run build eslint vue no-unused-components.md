@@ -1,3 +1,7 @@
+### error
+npm run build eslint vue no-unused-components
+   
+## solution
 .eslintrc.js
 ```js
 module.exports = {
