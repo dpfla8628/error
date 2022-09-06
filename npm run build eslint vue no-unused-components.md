@@ -6,3 +6,4 @@ module.exports = {
   }
 }
 ```
+참고 : https://runebook.dev/ko/docs/eslint/-index-?q=no-emp
